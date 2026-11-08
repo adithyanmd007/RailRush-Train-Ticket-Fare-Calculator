@@ -1,0 +1,6 @@
+Name of the Passenger Adwaith TR
+ Age of the Passenger 19
+ Travelling from STATION C to STATION E
+ Travel Class 1A
+ Fare for travel 2500
+ PNR Number 8497201300
